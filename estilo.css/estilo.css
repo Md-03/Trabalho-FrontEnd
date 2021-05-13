@@ -1,0 +1,46 @@
+ 
+p {
+    text-align: justify;
+    text-indent: 5px; 
+    
+}
+h1 {
+     text-align: center;
+
+}
+h1 {
+        font-family: Arial, sans-serif;
+        font-weight: bolder;
+        text-align: center;
+}
+h2 {
+    font-family: sans-serif;
+}
+.titulo-principal {
+    text-align: center;
+    background-color: #bd760d;
+    color: #fff;
+    padding: 25px;
+    border-bottom: 10px solid rgb(119, 71, 9);
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
